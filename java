@@ -1,0 +1,1 @@
+ final Button mybutton = new Button(ProjectinActivity.this); mybutton.setText("Your Button"); mybutton.setLayoutParams(new LinearLayout.LayoutParams(android.widget.LinearLayout.LayoutParams.WRAP_CONTENT, android.widget.LinearLayout.LayoutParams.WRAP_CONTENT)); mylinear.addView(mybutton)
