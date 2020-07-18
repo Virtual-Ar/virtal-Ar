@@ -79,7 +79,7 @@ h3.hny-title.two {
 }
 
 h3.hny-title span.dot-1 {
-  color: #f75940;
+  color: #fff;
   margin-left: 10px;
 }
 
@@ -3194,7 +3194,7 @@ a.read-more-btn.btn:hover {
 }
 
 .template a:hover {
-  color: #f75940;
+  color: #d927a6;
   text-decoration: none;
 }
 
@@ -3205,7 +3205,7 @@ a.read-more-btn.btn:hover {
 }
 
 .template header.active {
-  background: #f75940;
+  background: #d927a6;
 }
 
 .template .navbar {
@@ -3218,14 +3218,14 @@ a.read-more-btn.btn:hover {
   font-size: 34px;
   font-weight: 700;
   text-transform: capitalize;
-  color: #334252;
+  color: #fff;
 }
 
 .template .navbar .navbar-brand span.fa {
   width: 34px;
   height: 34px;
   display: inline-block;
-  background: #f75940;
+  background: #d927a6;
   line-height: 34px;
   color: #fff;
   border-radius: 6px;
@@ -3249,7 +3249,7 @@ a.read-more-btn.btn:hover {
 }
 
 .template .navbar-expand-lg .navbar-nav .nav-item.active a {
-  color: #f75940;
+  color: #d927a6;
 }
 
 .template .navbar-expand-lg .navbar-nav .nav-item:last-child {
@@ -3265,7 +3265,7 @@ a.read-more-btn.btn:hover {
 }
 
 .template .navbar-expand-lg .navbar-nav .nav-link:hover {
-  color: #f75940;
+  color: #fff;
 }
 
 .template .navbar-expand-lg .navbar-nav .nav-item.active a {
@@ -3274,12 +3274,12 @@ a.read-more-btn.btn:hover {
 
 .template header.nav-fixed {
   padding: 10px 0px;
-  background-color: #f75940;
+  background-color: #000000;
 }
 
 .navbar-dark .navbar-nav .show>,
 .navbar-dark .navbar-nav .nav-link.show {
-  color: #334252;
+  color: #fff;
 }
 
 /* NAVIGATION */
@@ -3524,7 +3524,7 @@ nav.fill ul li a:hover:after {
     width: 34px;
     height: 34px;
     display: inline-block;
-    background: #f75940;
+    background: #d927a6;
     border-radius: 6px;
     text-align: center;
   }
@@ -3541,11 +3541,11 @@ nav.fill ul li a:hover:after {
   }
 
   .template .nav-fixed .navbar-expand-lg .navbar-toggler-icon {
-    background: #d02b11;
+    background: #d927a6;
   }
 
   .template .nav-fixed .navbar-expand-lg .navbar-brand span.fa {
-    background: #d02b11;
+    background: #d927a6;
   }
 
   .template .navbar-expand-lg .navbar-nav .nav-item.active a {
@@ -3574,12 +3574,12 @@ nav.fill ul li a:hover:after {
 
 .w3l-banner-main .bannerhny-content {
   padding: 100px 0;
-  background: #f0f3f1;
+  background: #000000;
   margin-top: 90px;
 }
 
 .w3l-banner-main .bannerhny-content h3 {
-  color: #334252;
+  color: #fff;
   font-size: 40px;
   margin: 0 auto;
   font-weight: 600;
@@ -3593,7 +3593,7 @@ nav.fill ul li a:hover:after {
 }
 
 .w3l-banner-main .bannerhny-content span {
-  color: #f75940;
+  color: #d927a6;
 }
 
 .w3l-banner-main .banner-button {
@@ -3604,14 +3604,14 @@ nav.fill ul li a:hover:after {
   font-weight: 600;
   box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.1);
   transition: all .2s ease-in-out;
-  border: 2px solid #f75940;
+  border: 2px solid #fff;
   padding: 0 32px;
   height: 53px;
   font-size: 18px;
   line-height: 53px;
   border-radius: 10px;
   color: #fff;
-  background: #f75940;
+  background: #d927a6;
 }
 
 .w3l-banner-main .banner-button .btn:hover {
@@ -3818,14 +3818,14 @@ nav.fill ul li a:hover:after {
 .w3l-content-6 .content-6-mian h4 {
   font-size: 22px;
   line-height: 32px;
-  color: #5E6271;
+  color: #d927a6;
   font-weight: 400;
   margin-bottom: 10px;
 }
 
 .w3l-content-6 .content-6-mian h4 span {
   display: block;
-  color: #334252;
+  color: #d927a6;
   font-size: 30px;
   font-weight: 700;
 }
@@ -3872,15 +3872,16 @@ nav.fill ul li a:hover:after {
 }
 
 .w3l-content-w-photo-6 .content-photo-info h4 {
-  color: #334252;
+  color: #fff;
   font-size: 28px;
   line-height: 36px;
   font-weight: 600;
   margin-bottom: 16px;
 }
 
+
 .w3l-content-w-photo-6 .content-photo-info p {
-  color: #5E6271;
+  color: #fff;
   line-height: 28px;
   padding-right: 30px;
   font-weight: 400;
@@ -3918,7 +3919,7 @@ nav.fill ul li a:hover:after {
   line-height: 26px;
   padding: 0 0em;
   margin: 0;
-  color: #5E6271;
+  color: #fff;
 }
 
 .w3l-macbook-content-6 .macbook-right-icon {
@@ -3946,18 +3947,18 @@ nav.fill ul li a:hover:after {
 .w3l-macbook-content-6 .macbook-right-info h6 {
   text-align: left;
   margin-bottom: 0;
-  color: #334252;
+  color: #fff;
   font-size: 24px;
   margin: 0px 0 6px 0;
   font-weight: 600;
 }
 
 .w3l-macbook-content-6 .macbook-right-info h6 a {
-  color: #334252;
+  color: #fff;
 }
 
 .w3l-macbook-content-6 .macbook-right-info h6 a:hover {
-  color: #3dc7be;
+  color: #fff;
 }
 
 @media (max-width: 992px) {
@@ -4000,7 +4001,7 @@ nav.fill ul li a:hover:after {
 .w3l-content-5 .content-info-in p {
   line-height: 25px;
   font-size: 16px;
-  color: #5E6271;
+  color: #fff;
 }
 
 .w3l-content-5 .content-info-in {
@@ -4035,7 +4036,7 @@ nav.fill ul li a:hover:after {
 }
 
 .w3l-download-main .download-content h3 {
-  color: #334252;
+  color: #fff;
   font-size: 40px;
   margin: 0 auto;
   font-weight: 600;
@@ -4049,7 +4050,7 @@ nav.fill ul li a:hover:after {
 }
 
 .w3l-download-main .download-content span {
-  color: #f75940;
+  color: #d927a6;
 }
 
 .w3l-download-main .banner-button {
@@ -4060,14 +4061,14 @@ nav.fill ul li a:hover:after {
   font-weight: 600;
   box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.1);
   transition: all .2s ease-in-out;
-  border: 2px solid #f75940;
+  border: 2px solid #fff;
   padding: 0 32px;
   height: 53px;
   font-size: 18px;
   line-height: 53px;
   border-radius: 10px;
   color: #fff;
-  background: #f75940;
+  background: #d927a6;
 }
 
 .w3l-download-main .banner-button .btn:hover {
@@ -4146,8 +4147,12 @@ nav.fill ul li a:hover:after {
 .w3l-footer-16 .copy-right h6 {
   font-size: 16px;
   line-height: 25px;
-  color: #334252;
+  color: #fff;
   font-weight: 400;
+}
+
+#virtual-ar {
+    color : #d927a6;
 }
 
 .w3l-footer-16 .copy-right h6 a {
@@ -11182,7 +11187,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-brand {
-  color: #fff;
+  color: rgba(0, 0, 0, 0.9);
 }
 
 .navbar-dark .navbar-brand:hover,
