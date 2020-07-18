@@ -68,7 +68,7 @@ h3.hny-title,
 h3.hny-title.two {
   font-size: 38px;
   line-height: 46px;
-  color: #334252;
+  color: #fff;
   margin-bottom: 24px;
   text-transform: capitalize;
   font-weight: 600;
@@ -3201,7 +3201,7 @@ a.read-more-btn.btn:hover {
 .template header {
   padding: 20px 0px;
   transition: all 0.4s ease 0s;
-  background: #f0f3f1;
+  background: #000000;
 }
 
 .template header.active {
@@ -3713,7 +3713,7 @@ nav.fill ul li a:hover:after {
   padding: 8px 15px;
   font-weight: 600;
   text-align: center;
-  color: #334252;
+  color: #fff;
   border: none;
   border-bottom: 2px solid transparent;
 }
@@ -3722,7 +3722,7 @@ nav.fill ul li a:hover:after {
   display: block;
   margin-bottom: 10px;
   font-size: 22px;
-  color: #f75940;
+  color: #fff;
 }
 
 .w3l-content-12-main .tab-main label:before {
@@ -3755,7 +3755,7 @@ nav.fill ul li a:hover:after {
 }
 
 .w3l-content-12-main .tab-main input:checked+label {
-  color: #334252;
+  color: #000000;
   border: none;
   border-bottom: 2px solid #f75940;
 }
@@ -3982,7 +3982,7 @@ nav.fill ul li a:hover:after {
 }
 
 .w3l-content-5 .content-5-main {
-  background: #fff;
+  background-color: #d927a6;
   text-align: center;
 }
 
@@ -4139,7 +4139,7 @@ nav.fill ul li a:hover:after {
 }
 
 .w3l-footer-16 .footer-content {
-  background: #ffffff;
+  background: #000000;
   position: relative;
 }
 
@@ -6849,6 +6849,10 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+}
+
+.container2 {
+    background-color : #d927a6;
 }
 
 @media (min-width: 576px) {
